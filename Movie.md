@@ -1,6 +1,6 @@
-![Hugh Laurie staring at you next to the logo of the show](House-MD.png)
-`System.out.println("House, MD: Released 2004-2012);`
-[Wikipedia Article](https://en.wikipedia.org/wiki/House_(TV_series))
-[IMDB Page](https://www.imdb.com/title/tt0412142/)
-**House, M.D.** is a medical drama that ran for eight seasons from November 2004 to May 2012. It stars Hugh Laurie in the role of Dr. Gregory House, a misanthropic genius diagnostician with a chronic pain problem. He and his team of doctors take a strange, inexplicable medical case in every episode, which serves as the episode's main mystery. The show is inspired by Sherlock Holmes, with medical mysteries instead of criminal ones. House solves nearly every case thanks to his exceptional talent, despite being a massive jerk and being hooked on Vicodin from his chronic leg pain.
+![Hugh Laurie staring at you next to the logo of the show](House-MD.png)\n
+`System.out.println("House, MD: Released 2004-2012);`\n
+[Wikipedia Article](https://en.wikipedia.org/wiki/House_(TV_series))\n
+[IMDB Page](https://www.imdb.com/title/tt0412142/)\n
+**House, M.D.** is a medical drama that ran for eight seasons from November 2004 to May 2012. It stars Hugh Laurie in the role of Dr. Gregory House, a misanthropic genius diagnostician with a chronic pain problem. He and his team of doctors take a strange, inexplicable medical case in every episode, which serves as the episode's main mystery. The show is inspired by Sherlock Holmes, with medical mysteries instead of criminal ones. House solves nearly every case thanks to his exceptional talent, despite being a massive jerk and being hooked on Vicodin from his chronic leg pain.\n
 While the medical case is being solved, the B plot generally revolves around the personal drama of House and his team of doctors, along with Dr. Lisa Cuddy, the director of the hospital the show takes place in. There are also diversions where House is forced to sit at the walk-in office, making menial diagnoses for annoying patients to bring some humor between scenes. Each episode has its own contained mystery, but there are overarching character arcs and plotlines across seasons and across the full show.
